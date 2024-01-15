@@ -15,9 +15,9 @@ const config = {
 		alias: {
 			// These are the default values, no need to set them unless you want to change them.
 			// $assets: '/assets',
-			// $components: '/components',
-			// $layouts: '/layouts',
-			// $lib: '/lib',
+			$components: 'src/lib/components',
+			// $layouts: 'layouts',
+			$lib: 'src/lib',
 			// $routes: '/routes',
 			// $static: '/static',
 			// $stores: '/stores',
